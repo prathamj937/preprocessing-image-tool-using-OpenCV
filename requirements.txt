@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+opencv-python
+numpy
+base64
+io
